@@ -1,25 +1,290 @@
 CropCategory,CropSubCategory,CropTeritiary,Year,CropYear,CropName,Area,Production,Yield,AreaRanking,ProductionRanking,YieldRanking
-Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Nigerseed,136244,41322,128.4798462,22,24,1
-Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Sesamum,1622602,657499,172.8600345,14,18,2
-Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Linseed,179903,120664,176.2014561,20,21,3
+Food Grains,Cereals,Cereals,2010,2010 - 11,Wheat,29068587,86873953,698.4281429,1,2,21
+Food Grains,Cereals,Cereals,2010,2010 - 11,Rice,27405495,65032965,777.5596667,2,3,22
+Commercial Crops,Commercial Crops,Fiber Crop,2010,2010 - 11,Cotton,11202000,5584500,176.9501818,3,10,5
+Food Grains,Cereals,Coarse Cereals,2010,2010 - 11,Bajra,9612338,10369909,396.536029,4,6,17
+Oilseeds,Oil Seeds,Oilseeds,2010,2010 - 11,Soybean,9600741,12733697,372.4768947,5,5,16
+Food Grains,Pulses,Pulses,2010,2010 - 11,Gram,9185591,8221091,300.4651733,6,8,13
+Food Grains,Cereals,Coarse Cereals,2010,2010 - 11,Maize,8114652,21063202,1138.38707,7,4,23
+Food Grains,Cereals,Coarse Cereals,2010,2010 - 11,Jowar,6354728,5881147,339.5040385,8,9,14
+Oilseeds,Oil Seeds,Oilseeds,2010,2010 - 11,Groundnut,5856145,8265782,477.421419,9,7,18
+Commercial Crops,Commercial Crops,Sugar crop,2010,2010 - 11,Sugarcane,4884829,342381555,18859.20701,10,1,24
+Food Grains,Pulses,Pulses,2010,2010 - 11,Tur,4366694,2861120,277.7023462,11,11,11
+Food Grains,Pulses,Pulses,2010,2010 - 11,Moong,3495290,1823126,163.3536237,12,13,3
+Food Grains,Pulses,Pulses,2010,2010 - 11,Urad,3084311,1712007,198.2876667,13,15,6
+Oilseeds,Oil Seeds,Oilseeds,2010,2010 - 11,Sesamum,2083203,892995,156.9387381,14,18,2
+Food Grains,Cereals,Coarse Cereals,2010,2010 - 11,Ragi,1286192,2193451,368.5308841,15,12,15
+Oilseeds,Oil Seeds,Oilseeds,2010,2010 - 11,Castorseed,880339,1350324,243.260451,16,17,8
+Commercial Crops,Commercial Crops,Fiber Crop,2010,2010 - 11,Jute,773563,1801695,482.1150417,17,14,19
+Food Grains,Cereals,Coarse Cereals,2010,2010 - 11,Barley,705354,1662865,564.9111111,18,16,20
+Food Grains,Pulses,Other Pulses,2010,2010 - 11,Other Pulses,565026,377104,264.5483913,19,19,9
+Oilseeds,Oil Seeds,Oilseeds,2010,2010 - 11,Sunflower,516775,364498,280.7222667,20,20,12
+Oilseeds,Oil Seeds,Oilseeds,2010,2010 - 11,Nigerseed,370744,107709,112.2627222,21,24,1
+Oilseeds,Oil Seeds,Oilseeds,2010,2010 - 11,Linseed,359226,146544,164.5958125,22,22,4
+Oilseeds,Oil Seeds,Oilseeds,2010,2010 - 11,Safflower,243848,150432,210.8751,23,21,7
+Commercial Crops,Commercial Crops,Fiber Crop,2010,2010 - 11,Mesta,98556,109935,276.9045385,24,23,10
+Food Grains,Cereals,Cereals,2011,2011 - 12,Rice,44006253,105301030,839.9372453,1,2,22
+Food Grains,Cereals,Cereals,2011,2011 - 12,Wheat,29864770,94882063,726.9638765,2,3,21
+Commercial Crops,Commercial Crops,Fiber Crop,2011,2011 - 12,Cotton,12132000,5841200,175.4085455,3,9,6
+Oilseeds,Oil Seeds,Oilseeds,2011,2011 - 12,Soybean,10109092,12213513,405.0969683,4,5,16
+Food Grains,Cereals,Coarse Cereals,2011,2011 - 12,Bajra,8776700,10276046,416.0892273,5,6,17
+Food Grains,Cereals,Coarse Cereals,2011,2011 - 12,Maize,8310542,20831312,937.5949037,6,4,23
+Food Grains,Pulses,Pulses,2011,2011 - 12,Gram,8299061,7702324,375.2941067,7,7,14
+Food Grains,Cereals,Coarse Cereals,2011,2011 - 12,Jowar,5299081,5103168,362.4166667,8,10,13
+Oilseeds,Oil Seeds,Oilseeds,2011,2011 - 12,Groundnut,5263730,6963717,459.7961453,9,8,18
+Commercial Crops,Commercial Crops,Sugar crop,2011,2011 - 12,Sugarcane,5037655,361036486,19363.65814,10,1,24
+Food Grains,Pulses,Pulses,2011,2011 - 12,Tur,4007369,2654051,273.0005556,11,11,10
+Food Grains,Pulses,Pulses,2011,2011 - 12,Moong,3282282,1608133,173.2006869,12,17,4
+Food Grains,Pulses,Pulses,2011,2011 - 12,Urad,3077477,1728301,202.8638286,13,15,7
+Oilseeds,Oil Seeds,Oilseeds,2011,2011 - 12,Sesamum,1901550,810272,168.1307471,14,18,3
+Oilseeds,Oil Seeds,Oilseeds,2011,2011 - 12,Castorseed,1470873,2294930,230.1756,15,12,8
+Food Grains,Cereals,Coarse Cereals,2011,2011 - 12,Ragi,1175783,1929242,387.74565,16,14,15
+Commercial Crops,Commercial Crops,Fiber Crop,2011,2011 - 12,Jute,809020,1932414,471.1499167,17,13,19
+Food Grains,Cereals,Coarse Cereals,2011,2011 - 12,Barley,643396,1618650,603.8464444,18,16,20
+Food Grains,Pulses,Other Pulses,2011,2011 - 12,Other Pulses,562243,372203,263.1414762,19,19,9
+Oilseeds,Oil Seeds,Oilseeds,2011,2011 - 12,Sunflower,380764,274983,301.8487368,20,20,12
+Oilseeds,Oil Seeds,Oilseeds,2011,2011 - 12,Nigerseed,364348,98084,122.6446154,21,24,1
+Oilseeds,Oil Seeds,Oilseeds,2011,2011 - 12,Linseed,322642,152456,173.7256458,22,21,5
+Oilseeds,Oil Seeds,Oilseeds,2011,2011 - 12,Safflower,250414,145331,163.9754848,23,22,2
+Commercial Crops,Commercial Crops,Fiber Crop,2011,2011 - 12,Mesta,95640,119337,291.0605128,24,23,11
+Food Grains,Cereals,Cereals,2012,2012 - 13,Rice,42753872,105231603,867.0576121,1,2,23
+Food Grains,Cereals,Cereals,2012,2012 - 13,Wheat,30003344,93506481,711.1363333,2,3,21
+Commercial Crops,Commercial Crops,Fiber Crop,2012,2012 - 13,Cotton,11927000,5798700,188.5164545,3,8,5
+Oilseeds,Oil Seeds,Oilseeds,2012,2012 - 13,Soybean,10840733,14666448,433.0893833,4,5,17
+Food Grains,Pulses,Pulses,2012,2012 - 13,Gram,8521793,8832479,310.0738974,5,6,10
+Food Grains,Cereals,Coarse Cereals,2012,2012 - 13,Maize,8168178,21176233,783.0378296,6,4,22
+Food Grains,Cereals,Coarse Cereals,2012,2012 - 13,Bajra,7297417,8741982,350.5718788,7,7,15
+Food Grains,Cereals,Coarse Cereals,2012,2012 - 13,Jowar,5109360,4160480,348.2935694,8,10,14
+Commercial Crops,Commercial Crops,Sugar crop,2012,2012 - 13,Sugarcane,4998943,341199650,20474.84056,9,1,24
+Oilseeds,Oil Seeds,Oilseeds,2012,2012 - 13,Groundnut,4721030,4695302,500.3763846,10,9,19
+Food Grains,Pulses,Pulses,2012,2012 - 13,Tur,3892874,3022695,311.6188889,11,11,11
+Food Grains,Pulses,Pulses,2012,2012 - 13,Urad,3152820,1970852,215.0731754,12,12,7
+Food Grains,Pulses,Pulses,2012,2012 - 13,Moong,2718722,1186189,171.5661944,13,17,3
+Oilseeds,Oil Seeds,Oilseeds,2012,2012 - 13,Sesamum,1705757,685024,158.0606207,14,18,2
+Oilseeds,Oil Seeds,Oilseeds,2012,2012 - 13,Castorseed,1233587,1963473,256.3946042,15,13,8
+Food Grains,Cereals,Coarse Cereals,2012,2012 - 13,Ragi,1131019,1574411,365.9629048,16,16,16
+Commercial Crops,Commercial Crops,Fiber Crop,2012,2012 - 13,Jute,776670,1861259,480.602875,17,14,18
+Food Grains,Cereals,Coarse Cereals,2012,2012 - 13,Barley,695120,1752449,645.1239762,18,15,20
+Food Grains,Pulses,Other Pulses,2012,2012 - 13,Other Pulses,599757,515540,301.5469091,19,19,9
+Oilseeds,Oil Seeds,Oilseeds,2012,2012 - 13,Sunflower,391040,270788,314.5849444,20,20,12
+Oilseeds,Oil Seeds,Oilseeds,2012,2012 - 13,Nigerseed,310412,100830,140.7099667,21,24,1
+Oilseeds,Oil Seeds,Oilseeds,2012,2012 - 13,Linseed,296265,148587,173.5358542,22,21,4
+Oilseeds,Oil Seeds,Oilseeds,2012,2012 - 13,Safflower,183509,108510,190.1185333,23,22,6
+Commercial Crops,Commercial Crops,Fiber Crop,2012,2012 - 13,Mesta,85849,106162,316.6963611,24,23,13
+Food Grains,Cereals,Cereals,2013,2013 - 14,Rice,44135952,106645547,856.6661818,1,2,21
+Food Grains,Cereals,Cereals,2013,2013 - 14,Wheat,30473181,95849833,762.7590256,2,3,20
+Commercial Crops,Commercial Crops,Fiber Crop,2013,2013 - 14,Cotton,11927000,6087530,178.9447273,3,9,4
+Oilseeds,Oil Seeds,Oilseeds,2013,2013 - 14,Soybean,11716408,11860818,358.7543636,4,5,14
+Food Grains,Pulses,Pulses,2013,2013 - 14,Gram,9927383,9526300,324.2923974,5,7,11
+Food Grains,Cereals,Coarse Cereals,2013,2013 - 14,Maize,9066260,24259507,965.2801458,6,4,22
+Food Grains,Cereals,Coarse Cereals,2013,2013 - 14,Bajra,7810715,9250085,422.91215,7,8,16
+Oilseeds,Oil Seeds,Oilseeds,2013,2013 - 14,Groundnut,5505206,9713900,475.5202308,8,6,17
+Commercial Crops,Commercial Crops,Sugar crop,2013,2013 - 14,Sugarcane,4993348,352141830,19852.3046,9,1,24
+Food Grains,Cereals,Coarse Cereals,2013,2013 - 14,Jowar,4822440,4463806,354.24128,10,10,13
+Food Grains,Pulses,Pulses,2013,2013 - 14,Tur,3904438,3174399,316.42156,11,11,10
+Food Grains,Pulses,Pulses,2013,2013 - 14,Moong,3382950,1605900,209.0529386,12,17,6
+Food Grains,Pulses,Pulses,2013,2013 - 14,Urad,3063520,1700220,212.5706434,13,16,7
+Oilseeds,Oil Seeds,Oilseeds,2013,2013 - 14,Sesamum,1678903,714582,165.7414667,14,18,3
+Food Grains,Cereals,Coarse Cereals,2013,2013 - 14,Ragi,1193635,1982937,368.0910317,15,13,15
+Oilseeds,Oil Seeds,Oilseeds,2013,2013 - 14,Castorseed,1063197,1726559,1068.081035,16,15,23
+Commercial Crops,Commercial Crops,Fiber Crop,2013,2013 - 14,Jute,756034,1994991,531.377,17,12,18
+Food Grains,Pulses,Other Pulses,2013,2013 - 14,Other Pulses,745167,702200,327.8276212,18,19,12
+Food Grains,Cereals,Coarse Cereals,2013,2013 - 14,Barley,673500,1830655,673.8095,19,14,19
+Oilseeds,Oil Seeds,Oilseeds,2013,2013 - 14,Sunflower,340650,255570,283.8621061,20,20,9
+Oilseeds,Oil Seeds,Oilseeds,2013,2013 - 14,Nigerseed,298740,97838,104.1940889,21,23,1
+Oilseeds,Oil Seeds,Oilseeds,2013,2013 - 14,Linseed,293067,141730,143.0144333,22,21,2
+Oilseeds,Oil Seeds,Oilseeds,2013,2013 - 14,Safflower,177733,113366,179.8410278,23,22,5
+Commercial Crops,Commercial Crops,Fiber Crop,2013,2013 - 14,Mesta,73190,89319,244.2569048,24,24,8
+Food Grains,Cereals,Cereals,2014,2014 - 15,Rice,44110560,105482080,876.1091636,1,2,23
+Food Grains,Cereals,Cereals,2014,2014 - 15,Wheat,31465600,86526600,724.3819487,2,3,21
+Commercial Crops,Commercial Crops,Fiber Crop,2014,2014 - 15,Cotton,12788000,5901550,176.6392424,3,9,3
+Oilseeds,Oil Seeds,Oilseeds,2014,2014 - 15,Soybean,10910830,10373800,320.4758636,4,5,14
+Food Grains,Cereals,Coarse Cereals,2014,2014 - 15,Maize,9185380,24172655,843.9452222,5,4,22
+Food Grains,Pulses,Pulses,2014,2014 - 15,Gram,8251120,7332330,307.7919333,6,8,11
+Food Grains,Cereals,Coarse Cereals,2014,2014 - 15,Bajra,7317950,9184220,432.8718413,7,6,17
+Food Grains,Cereals,Coarse Cereals,2014,2014 - 15,Jowar,5230393,4431300,389.1443472,8,10,16
+Commercial Crops,Commercial Crops,Sugar crop,2014,2014 - 15,Sugarcane,5066780,362332770,19924.97485,9,1,24
+Oilseeds,Oil Seeds,Oilseeds,2014,2014 - 15,Groundnut,4768650,7401710,463.1000667,10,7,18
+Food Grains,Pulses,Pulses,2014,2014 - 15,Tur,3853540,2807324,311.0249383,11,11,12
+Food Grains,Pulses,Pulses,2014,2014 - 15,Urad,3247520,1961070,229.480814,12,13,8
+Food Grains,Pulses,Pulses,2014,2014 - 15,Moong,3019480,1503440,191.5439649,13,17,4
+Oilseeds,Oil Seeds,Oilseeds,2014,2014 - 15,Sesamum,1746062,827830,206.5986333,14,18,5
+Food Grains,Cereals,Coarse Cereals,2014,2014 - 15,Ragi,1208060,2060910,369.4589524,15,12,15
+Oilseeds,Oil Seeds,Oilseeds,2014,2014 - 15,Castorseed,1089320,1869990,223.4638596,16,15,7
+Commercial Crops,Commercial Crops,Fiber Crop,2014,2014 - 15,Jute,749760,1911273,533.37125,17,14,19
+Food Grains,Pulses,Other Pulses,2014,2014 - 15,Other Pulses,708078,702891,315.9344444,18,19,13
+Food Grains,Cereals,Coarse Cereals,2014,2014 - 15,Barley,707460,1612990,602.0362857,19,16,20
+Oilseeds,Oil Seeds,Oilseeds,2014,2014 - 15,Sunflower,315500,236620,245.2562222,20,20,9
+Oilseeds,Oil Seeds,Oilseeds,2014,2014 - 15,Linseed,285470,154570,151.26305,21,21,2
+Oilseeds,Oil Seeds,Oilseeds,2014,2014 - 15,Nigerseed,232130,76170,123.6802667,22,24,1
+Oilseeds,Oil Seeds,Oilseeds,2014,2014 - 15,Safflower,174940,90120,211.5930833,23,23,6
+Commercial Crops,Commercial Crops,Fiber Crop,2014,2014 - 15,Mesta,59950,91416,257.5931556,24,22,10
+Food Grains,Cereals,Cereals,2015,2015 - 16,Rice,43499178,104408223,851.4067879,1,2,22
+Food Grains,Cereals,Cereals,2015,2015 - 16,Wheat,30417797,92287529,799.6967901,2,3,21
+Commercial Crops,Commercial Crops,Fiber Crop,2015,2015 - 16,Cotton,12242000,5078750,144.1581818,3,9,5
+Oilseeds,Oil Seeds,Oilseeds,2015,2015 - 16,Soybean,11604541,8569795,299.8865909,4,5,11
+Food Grains,Cereals,Coarse Cereals,2015,2015 - 16,Maize,8806108,22567345,1009.006936,5,4,23
+Food Grains,Pulses,Pulses,2015,2015 - 16,Gram,8398952,7057599,424.1424744,6,7,16
+Food Grains,Cereals,Coarse Cereals,2015,2015 - 16,Bajra,7128611,8066634,441.6696,7,6,18
+Food Grains,Cereals,Coarse Cereals,2015,2015 - 16,Jowar,5078028,3402053,329.5772754,8,10,13
+Commercial Crops,Commercial Crops,Sugar crop,2015,2015 - 16,Sugarcane,4927123,348448396,18372.18684,9,1,24
+Oilseeds,Oil Seeds,Oilseeds,2015,2015 - 16,Groundnut,4596296,6733328,435.7579833,10,8,17
+Food Grains,Pulses,Pulses,2015,2015 - 16,Tur,3963348,2560960,313.8336071,11,11,12
+Food Grains,Pulses,Pulses,2015,2015 - 16,Moong,3827701,1592895,176.6786752,12,16,6
+Food Grains,Pulses,Pulses,2015,2015 - 16,Urad,3623882,1945318,212.8461905,13,12,7
+Oilseeds,Oil Seeds,Oilseeds,2015,2015 - 16,Sesamum,1950880,850065,143.5683222,14,18,4
+Food Grains,Cereals,Coarse Cereals,2015,2015 - 16,Ragi,1138245,1821894,390.8795185,15,13,15
+Oilseeds,Oil Seeds,Oilseeds,2015,2015 - 16,Castorseed,1060729,1751818,228.3006491,16,15,8
+Food Grains,Pulses,Other Pulses,2015,2015 - 16,Other Pulses,754537,633471,372.1764889,17,19,14
+Commercial Crops,Commercial Crops,Fiber Crop,2015,2015 - 16,Jute,728306,1789240,554.1382917,18,14,20
+Food Grains,Cereals,Coarse Cereals,2015,2015 - 16,Barley,589363,1437514,541.2547333,19,17,19
+Oilseeds,Oil Seeds,Oilseeds,2015,2015 - 16,Linseed,262859,125494,137.2489167,20,21,3
+Oilseeds,Oil Seeds,Oilseeds,2015,2015 - 16,Nigerseed,251667,74273,96.27107143,21,23,1
+Oilseeds,Oil Seeds,Oilseeds,2015,2015 - 16,Sunflower,233230,140596,242.2553472,22,20,9
+Oilseeds,Oil Seeds,Oilseeds,2015,2015 - 16,Safflower,127496,52990,131.4500278,23,24,2
+Commercial Crops,Commercial Crops,Fiber Crop,2015,2015 - 16,Mesta,53995,105004,278.7448667,24,22,10
+Food Grains,Cereals,Cereals,2016,2016 - 17,Rice,43993354,109698436,848.8875932,1,2,22
+Food Grains,Cereals,Cereals,2016,2016 - 17,Wheat,30785182,98510230,780.8769405,2,3,21
+Oilseeds,Oil Seeds,Oilseeds,2016,2016 - 17,Soybean,11183401,13158730,308.6616522,3,5,11
+Commercial Crops,Commercial Crops,Fiber Crop,2016,2016 - 17,Cotton,10776400,5521159,170.3483333,4,9,4
+Food Grains,Cereals,Coarse Cereals,2016,2016 - 17,Maize,9633201,25899866,967.0642128,5,4,23
+Food Grains,Pulses,Pulses,2016,2016 - 17,Gram,9626160,9377557,342.5131026,6,7,14
+Food Grains,Cereals,Coarse Cereals,2016,2016 - 17,Bajra,7458501,9729864,403.3395303,7,6,17
+Oilseeds,Oil Seeds,Oilseeds,2016,2016 - 17,Groundnut,5338041,7461529,436.6359767,8,8,18
+Food Grains,Pulses,Pulses,2016,2016 - 17,Tur,5337886,4873241,327.8052976,9,10,12
+Food Grains,Cereals,Coarse Cereals,2016,2016 - 17,Jowar,4787421,3850901,343.3139733,10,11,15
+Food Grains,Pulses,Pulses,2016,2016 - 17,Urad,4478157,2831891,253.1843089,11,12,9
+Commercial Crops,Commercial Crops,Sugar crop,2016,2016 - 17,Sugarcane,4434627,305955871,17512.29681,12,1,24
+Food Grains,Pulses,Pulses,2016,2016 - 17,Moong,4326801,2165363,193.0500702,13,13,6
+Oilseeds,Oil Seeds,Oilseeds,2016,2016 - 17,Sesamum,1666926,747031,167.7100778,14,18,2
+Food Grains,Cereals,Coarse Cereals,2016,2016 - 17,Ragi,1016113,1385110,355.5693684,15,16,16
+Oilseeds,Oil Seeds,Oilseeds,2016,2016 - 17,Castorseed,807917,1376421,206.993807,16,17,7
+Food Grains,Pulses,Other Pulses,2016,2016 - 17,Other Pulses,785927,677592,338.971902,17,19,13
+Commercial Crops,Commercial Crops,Fiber Crop,2016,2016 - 17,Jute,706070,1877805,487.2074167,18,14,19
+Food Grains,Cereals,Coarse Cereals,2016,2016 - 17,Barley,656251,1747454,658.0572143,19,15,20
+Oilseeds,Oil Seeds,Oilseeds,2016,2016 - 17,Linseed,325216,184250,169.9892167,20,20,3
+Oilseeds,Oil Seeds,Oilseeds,2016,2016 - 17,Nigerseed,256413,85142,139.8138,21,24,1
+Oilseeds,Oil Seeds,Oilseeds,2016,2016 - 17,Sunflower,252694,178392,244.6583333,22,21,8
+Oilseeds,Oil Seeds,Oilseeds,2016,2016 - 17,Safflower,144274,93896,186.5532778,23,23,5
+Commercial Crops,Commercial Crops,Fiber Crop,2016,2016 - 17,Mesta,57341,95427,256.7847111,24,22,10
+Food Grains,Cereals,Cereals,2017,2017 - 18,Rice,43774065,112757606,873.2080287,1,2,22
+Food Grains,Cereals,Cereals,2017,2017 - 18,Wheat,29650586,99869522,833.6369259,2,3,21
+Commercial Crops,Commercial Crops,Fiber Crop,2017,2017 - 18,Cotton,12536000,5556110,168.2082727,3,9,3
+Food Grains,Pulses,Pulses,2017,2017 - 18,Gram,10560429,11379190,344.3660641,4,5,13
+Oilseeds,Oil Seeds,Oilseeds,2017,2017 - 18,Soybean,10328825,10932973,331.927087,5,6,11
+Food Grains,Cereals,Coarse Cereals,2017,2017 - 18,Maize,9380071,28752925,981.8121597,6,4,23
+Food Grains,Cereals,Coarse Cereals,2017,2017 - 18,Bajra,7480595,9208847,452.8134286,7,8,16
+Food Grains,Pulses,Pulses,2017,2017 - 18,Urad,5279089,3492424,235.8983846,8,12,7
+Oilseeds,Oil Seeds,Oilseeds,2017,2017 - 18,Groundnut,4887705,9252570,490.671907,9,7,18
+Commercial Crops,Commercial Crops,Sugar crop,2017,2017 - 18,Sugarcane,4737063,379904851,19252.73743,10,1,24
+Food Grains,Pulses,Pulses,2017,2017 - 18,Tur,4438306,4289823,336.2823452,11,10,12
+Food Grains,Pulses,Pulses,2017,2017 - 18,Moong,4242288,2023181,212.6140083,12,13,6
+Food Grains,Cereals,Coarse Cereals,2017,2017 - 18,Jowar,4028450,3823321,374.3555256,13,11,15
+Oilseeds,Oil Seeds,Oilseeds,2017,2017 - 18,Sesamum,1579766,755428,165.7039556,14,18,2
+Food Grains,Cereals,Coarse Cereals,2017,2017 - 18,Ragi,1194292,1985237,454.8299608,15,14,17
+Oilseeds,Oil Seeds,Oilseeds,2017,2017 - 18,Castorseed,824127,1567565,244.3622407,16,17,8
+Commercial Crops,Commercial Crops,Fiber Crop,2017,2017 - 18,Jute,685752,1726360,638.7839583,17,16,19
+Food Grains,Pulses,Other Pulses,2017,2017 - 18,Other Pulses,675232,717491,360.6277037,18,19,14
+Food Grains,Cereals,Coarse Cereals,2017,2017 - 18,Barley,660797,1780813,646.7640222,19,15,20
+Oilseeds,Oil Seeds,Oilseeds,2017,2017 - 18,Linseed,326181,173760,172.2798167,20,20,4
+Oilseeds,Oil Seeds,Oilseeds,2017,2017 - 18,Nigerseed,218481,70186,118.9928,21,23,1
+Oilseeds,Oil Seeds,Oilseeds,2017,2017 - 18,Sunflower,191335,142401,275.3937692,22,21,9
+Oilseeds,Oil Seeds,Oilseeds,2017,2017 - 18,Safflower,82148,55280,199.5128333,23,24,5
+Commercial Crops,Commercial Crops,Fiber Crop,2017,2017 - 18,Mesta,56019,79568,324.2158333,24,22,10
+Food Grains,Cereals,Cereals,2018,2018 - 19,Rice,44156445,116477818,886.5122222,1,2,22
+Food Grains,Cereals,Cereals,2018,2018 - 19,Wheat,29318786,103596231,833.2142976,2,3,21
+Commercial Crops,Commercial Crops,Fiber Crop,2018,2018 - 19,Cotton,12564000,4747080,153.040697,3,9,3
+Oilseeds,Oil Seeds,Oilseeds,2018,2018 - 19,Soybean,11131257,13267520,385.3874286,4,5,15
+Food Grains,Pulses,Pulses,2018,2018 - 19,Gram,9547031,9937994,341.137679,5,6,14
+Food Grains,Cereals,Coarse Cereals,2018,2018 - 19,Maize,9027129,27715104,935.1606803,6,4,23
+Food Grains,Cereals,Coarse Cereals,2018,2018 - 19,Bajra,7105033,8664128,408.3012121,7,7,17
+Food Grains,Pulses,Pulses,2018,2018 - 19,Urad,5602482,3060003,248.5476667,8,11,9
+Commercial Crops,Commercial Crops,Sugar crop,2018,2018 - 19,Sugarcane,5024524,403874303,20399.6517,9,1,24
+Food Grains,Pulses,Pulses,2018,2018 - 19,Moong,4754959,2455373,213.0833833,10,13,6
+Oilseeds,Oil Seeds,Oilseeds,2018,2018 - 19,Groundnut,4730763,6727176,488.1239612,11,8,18
+Food Grains,Pulses,Pulses,2018,2018 - 19,Tur,4549542,3315441,321.9223095,12,10,12
+Food Grains,Cereals,Coarse Cereals,2018,2018 - 19,Jowar,3258235,2740108,315.4568333,13,12,11
+Oilseeds,Oil Seeds,Oilseeds,2018,2018 - 19,Sesamum,1419975,689309,176.654046,14,18,5
+Food Grains,Cereals,Coarse Cereals,2018,2018 - 19,Ragi,890940,1238704,407.262451,15,16,16
+Oilseeds,Oil Seeds,Oilseeds,2018,2018 - 19,Castorseed,751317,1196678,246.3776078,16,17,8
+Commercial Crops,Commercial Crops,Fiber Crop,2018,2018 - 19,Jute,665296,1709409,584.9634167,17,14,19
+Food Grains,Cereals,Coarse Cereals,2018,2018 - 19,Barley,575596,1633064,663.0516667,18,15,20
+Food Grains,Pulses,Other Pulses,2018,2018 - 19,Other Pulses,399374,356284,328.5068704,19,19,13
+Oilseeds,Oil Seeds,Oilseeds,2018,2018 - 19,Sunflower,181581,153542,224.5419359,20,20,7
+Oilseeds,Oil Seeds,Oilseeds,2018,2018 - 19,Linseed,172706,99072,161.3449667,21,21,4
+Oilseeds,Oil Seeds,Oilseeds,2018,2018 - 19,Nigerseed,156461,45417,134.5703333,22,23,1
+Oilseeds,Oil Seeds,Oilseeds,2018,2018 - 19,Safflower,45389,24345,138.7121667,23,24,2
+Commercial Crops,Commercial Crops,Fiber Crop,2018,2018 - 19,Mesta,39519,58138,305.1903636,24,22,10
+Food Grains,Cereals,Cereals,2019,2019 - 20,Rice,43662297,118870320,935.3570862,1,2,22
+Food Grains,Cereals,Cereals,2019,2019 - 20,Wheat,31357017,107860515,843.046321,2,3,21
 Commercial Crops,Commercial Crops,Fiber Crop,2019,2019 - 20,Cotton,13468000,6128160,180.1466667,3,9,4
-Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Safflower,51789,43669,198.3440606,23,23,5
-Food Grains,Pulses,Pulses,2019,2019 - 20,Moong,4580545,2508872,215.288125,10,12,6
-Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Sunflower,166193,146405,245.9385128,21,20,7
-Food Grains,Pulses,Pulses,2019,2019 - 20,Urad,4533343,2081276,254.7214603,11,13,8
-Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Castorseed,1046292,1842021,260.9988824,15,14,9
-Food Grains,Pulses,Pulses,2019,2019 - 20,Tur,4532470,3891724,316.3364337,12,11,10
-Food Grains,Pulses,Pulses,2019,2019 - 20,Gram,9698749,11078494,341.044141,5,6,11
-Food Grains,Pulses,Other Pulses,2019,2019 - 20,Other Pulses,377338,376666,364.6945882,19,19,12
-Commercial Crops,Commercial Crops,Fiber Crop,2019,2019 - 20,Mesta,44882,77575,369.3789091,24,22,13
-Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Jowar,4124757,3962105,379.9881111,13,10,14
 Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Soybean,12192707,11225854,381.8400635,4,5,15
-Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Ragi,1004456,1755057,448.2321176,16,15,16
+Food Grains,Pulses,Pulses,2019,2019 - 20,Gram,9698749,11078494,341.044141,5,6,11
+Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Maize,9569079,28765970,1008.624415,6,4,23
 Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Bajra,7542683,10362599,472.820127,7,7,17
 Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Groundnut,4825198,9952019,534.4730388,8,8,18
+Commercial Crops,Commercial Crops,Sugar crop,2019,2019 - 20,Sugarcane,4602675,370500305,20695.00803,9,1,24
+Food Grains,Pulses,Pulses,2019,2019 - 20,Moong,4580545,2508872,215.288125,10,12,6
+Food Grains,Pulses,Pulses,2019,2019 - 20,Urad,4533343,2081276,254.7214603,11,13,8
+Food Grains,Pulses,Pulses,2019,2019 - 20,Tur,4532470,3891724,316.3364337,12,11,10
+Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Jowar,4124757,3962105,379.9881111,13,10,14
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Sesamum,1622602,657499,172.8600345,14,18,2
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Castorseed,1046292,1842021,260.9988824,15,14,9
+Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Ragi,1004456,1755057,448.2321176,16,15,16
 Commercial Crops,Commercial Crops,Fiber Crop,2019,2019 - 20,Jute,628393,1700241,594.997125,17,17,19
 Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Barley,589570,1721833,649.0336444,18,16,20
-Food Grains,Cereals,Cereals,2019,2019 - 20,Wheat,31357017,107860515,843.046321,2,3,21
-Food Grains,Cereals,Cereals,2019,2019 - 20,Rice,43662297,118870320,935.3570862,1,2,22
-Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Maize,9569079,28765970,1008.624415,6,4,23
-Commercial Crops,Commercial Crops,Sugar crop,2019,2019 - 20,Sugarcane,4602675,370500305,20695.00803,9,1,24
+Food Grains,Pulses,Other Pulses,2019,2019 - 20,Other Pulses,377338,376666,364.6945882,19,19,12
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Linseed,179903,120664,176.2014561,20,21,3
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Sunflower,166193,146405,245.9385128,21,20,7
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Nigerseed,136244,41322,128.4798462,22,24,1
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Safflower,51789,43669,198.3440606,23,23,5
+Commercial Crops,Commercial Crops,Fiber Crop,2019,2019 - 20,Mesta,44882,77575,369.3789091,24,22,13
+Food Grains,Cereals,Cereals,2020,2020 - 21,Rice,45768687,124368314,931.7265263,1,2,22
+Food Grains,Cereals,Cereals,2020,2020 - 21,Wheat,31125158,109586499,856.1231429,2,3,21
+Commercial Crops,Commercial Crops,Fiber Crop,2020,2020 - 21,Cotton,13285894,5992219,149.6700635,3,9,2
+Oilseeds,Oil Seeds,Oilseeds,2020,2020 - 21,Soybean,12918278,12610296,352.678254,4,5,11
+Food Grains,Pulses,Pulses,2020,2020 - 21,Gram,9995921,11911177,362.40004,5,6,12
+Food Grains,Cereals,Coarse Cereals,2020,2020 - 21,Maize,9891961,31646916,1023.077053,6,4,23
+Food Grains,Cereals,Coarse Cereals,2020,2020 - 21,Bajra,7652098,10863172,485.6053333,7,7,17
+Oilseeds,Oil Seeds,Oilseeds,2020,2020 - 21,Groundnut,6014946,10244084,516.8960079,8,8,18
+Food Grains,Pulses,Pulses,2020,2020 - 21,Moong,5130171,3085354,222.5887179,9,12,6
+Commercial Crops,Commercial Crops,Sugar crop,2020,2020 - 21,Sugarcane,4851231,405398711,19589.10905,10,1,24
+Food Grains,Pulses,Pulses,2020,2020 - 21,Tur,4724445,4315898,334.2514615,11,10,10
+Food Grains,Pulses,Pulses,2020,2020 - 21,Urad,4142505,2229578,249.9952564,12,13,8
+Food Grains,Cereals,Coarse Cereals,2020,2020 - 21,Jowar,3715874,4085070,397.8014487,13,11,15
+Oilseeds,Oil Seeds,Oilseeds,2020,2020 - 21,Sesamum,1722667,816815,171.9305977,14,18,4
+Food Grains,Cereals,Coarse Cereals,2020,2020 - 21,Ragi,1159395,1998362,448.683098,15,14,16
+Oilseeds,Oil Seeds,Oilseeds,2020,2020 - 21,Castorseed,887495,1646956,223.6581176,16,16,7
+Commercial Crops,Commercial Crops,Fiber Crop,2020,2020 - 21,Jute,621858,1611460,635.030625,17,17,20
+Food Grains,Cereals,Coarse Cereals,2020,2020 - 21,Barley,592468,1656338,614.8706863,18,15,19
+Food Grains,Pulses,Other Pulses,2020,2020 - 21,Other Pulses,377423,430915,371.8273725,19,19,13
+Oilseeds,Oil Seeds,Oilseeds,2020,2020 - 21,Linseed,174866,111361,156.8084737,20,21,3
+Oilseeds,Oil Seeds,Oilseeds,2020,2020 - 21,Sunflower,142843,139572,326.8564167,21,20,9
+Oilseeds,Oil Seeds,Oilseeds,2020,2020 - 21,Nigerseed,133767,42451,98.54646154,22,23,1
+Oilseeds,Oil Seeds,Oilseeds,2020,2020 - 21,Safflower,56042,35890,218.8185333,23,24,5
+Commercial Crops,Commercial Crops,Fiber Crop,2020,2020 - 21,Mesta,40585,72337,377.8835455,24,22,14
+Food Grains,Cereals,Cereals,2021,2021 - 22,Rice,5816151,22966041,1158.865714,1,1,22
+Food Grains,Cereals,Cereals,2021,2021 - 22,Wheat,4103793,17663307,1257.826222,2,2,24
+Oilseeds,Oil Seeds,Oilseeds,2021,2021 - 22,Groundnut,827446,519712,390.4232,3,5,15
+Commercial Crops,Commercial Crops,Fiber Crop,2021,2021 - 22,Cotton,805785,326333,112.8529167,4,8,3
+Food Grains,Cereals,Coarse Cereals,2021,2021 - 22,Maize,475113,2392800,1192.448,5,4,23
+Food Grains,Pulses,Pulses,2021,2021 - 22,Gram,446964,457512,311.2482222,6,6,13
+Food Grains,Pulses,Pulses,2021,2021 - 22,Urad,405541,426617,216.2434667,7,7,9
+Food Grains,Pulses,Pulses,2021,2021 - 22,Tur,252936,69563,182.658,8,13,6
+Food Grains,Pulses,Pulses,2021,2021 - 22,Moong,151360,150581,253.5288889,9,10,11
+Commercial Crops,Commercial Crops,Sugar crop,2021,2021 - 22,Sugarcane,134238,10797391,23095.225,10,3,25
+Food Grains,Cereals,Coarse Cereals,2021,2021 - 22,Jowar,77006,259607,487.749,11,9,19
+Commercial Crops,Commercial Crops,Commercial crops,2021,2021 - 22,Tobacco,57000,132123,829.8333333,12,11,21
+Oilseeds,Oil Seeds,Oilseeds,2021,2021 - 22,Rapeseed & Mustard,46900,71253,370.6666667,13,12,14
+Oilseeds,Oil Seeds,Oilseeds,2021,2021 - 22,Sesamum,43075,9701,87.0055,14,19,2
+Food Grains,Cereals,Coarse Cereals,2021,2021 - 22,Bajra,32258,56228,440.0318333,15,14,17
+Food Grains,Cereals,Coarse Cereals,2021,2021 - 22,Ragi,30025,30889,288.5874444,16,15,12
+Food Grains,Pulses,Other Pulses,2021,2021 - 22,Other Pulses,21574,12535,208.9578333,17,18,8
+Oilseeds,Oil Seeds,Oilseeds,2021,2021 - 22,Sunflower,21386,14300,249.5200833,18,17,10
+Oilseeds,Oil Seeds,Oilseeds,2021,2021 - 22,Castorseed,15007,3510,63.28166667,19,21,1
+Food Grains,Cereals,Coarse Cereals,2021,2021 - 22,Barley,5094,15570,675.273,20,16,20
+Oilseeds,Oil Seeds,Oilseeds,2021,2021 - 22,Nigerseed,4000,1428,119,21,23,4
+Oilseeds,Oil Seeds,Oilseeds,2021,2021 - 22,Soybean,3009,4649,403.9883333,22,20,16
+Commercial Crops,Commercial Crops,Fiber Crop,2021,2021 - 22,Mesta,1198,2147,471.753,23,22,18
+Oilseeds,Oil Seeds,Oilseeds,2021,2021 - 22,Safflower,1010,665,126.7515,24,24,5
+Food Grains,Pulses,Pulses,2021,2021 - 22,Lentil,500,277,184.3333333,25,25,7
