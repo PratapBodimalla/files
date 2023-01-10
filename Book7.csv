@@ -1,0 +1,25 @@
+CropCategory,CropSubCategory,CropTeritiary,Year,CropYear,CropName,Area,Production,Yield,AreaRanking,ProductionRanking,YieldRanking
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Nigerseed,136244,41322,128.4798462,22,24,1
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Sesamum,1622602,657499,172.8600345,14,18,2
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Linseed,179903,120664,176.2014561,20,21,3
+Commercial Crops,Commercial Crops,Fiber Crop,2019,2019 - 20,Cotton,13468000,6128160,180.1466667,3,9,4
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Safflower,51789,43669,198.3440606,23,23,5
+Food Grains,Pulses,Pulses,2019,2019 - 20,Moong,4580545,2508872,215.288125,10,12,6
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Sunflower,166193,146405,245.9385128,21,20,7
+Food Grains,Pulses,Pulses,2019,2019 - 20,Urad,4533343,2081276,254.7214603,11,13,8
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Castorseed,1046292,1842021,260.9988824,15,14,9
+Food Grains,Pulses,Pulses,2019,2019 - 20,Tur,4532470,3891724,316.3364337,12,11,10
+Food Grains,Pulses,Pulses,2019,2019 - 20,Gram,9698749,11078494,341.044141,5,6,11
+Food Grains,Pulses,Other Pulses,2019,2019 - 20,Other Pulses,377338,376666,364.6945882,19,19,12
+Commercial Crops,Commercial Crops,Fiber Crop,2019,2019 - 20,Mesta,44882,77575,369.3789091,24,22,13
+Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Jowar,4124757,3962105,379.9881111,13,10,14
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Soybean,12192707,11225854,381.8400635,4,5,15
+Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Ragi,1004456,1755057,448.2321176,16,15,16
+Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Bajra,7542683,10362599,472.820127,7,7,17
+Oilseeds,Oil Seeds,Oilseeds,2019,2019 - 20,Groundnut,4825198,9952019,534.4730388,8,8,18
+Commercial Crops,Commercial Crops,Fiber Crop,2019,2019 - 20,Jute,628393,1700241,594.997125,17,17,19
+Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Barley,589570,1721833,649.0336444,18,16,20
+Food Grains,Cereals,Cereals,2019,2019 - 20,Wheat,31357017,107860515,843.046321,2,3,21
+Food Grains,Cereals,Cereals,2019,2019 - 20,Rice,43662297,118870320,935.3570862,1,2,22
+Food Grains,Cereals,Coarse Cereals,2019,2019 - 20,Maize,9569079,28765970,1008.624415,6,4,23
+Commercial Crops,Commercial Crops,Sugar crop,2019,2019 - 20,Sugarcane,4602675,370500305,20695.00803,9,1,24
